@@ -9,4 +9,6 @@ W sumie to najbardziej przedmioty zawodowe, reszta mi totalnie lotto
 Plan lekcji XD
 
 # dodaj Twoje zdjęcie
-Nope.
+Nope. W zamian 3majcie logo szkoły xD
+
+![logo ZSTI](/logo/logoZSTI_l.jpg)

@@ -12,3 +12,5 @@ Plan lekcji XD
 Nope. W zamian 3majcie logo szkoły xD
 
 ![logo ZSTI](/logo/logoZSTI_l.jpg)
+
+🗿🗿🗿🗿🗿🗿🗿🗿🗿🗿🗿🗿🗿🗿🗿🗿🗿🗿🗿🗿

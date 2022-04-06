@@ -5,4 +5,4 @@ podobają mi się drzwi koło sal 006 i tamtejsze głośniki które nie działaj
 # Co zmieniłbyś w ZSTI?
 Zmeiniłabym plan zajęć ponieważ dwa razy na 7 nie oddaje 
 # Dodaj Twoje zdjęcie
-![moje zdjęcie](277870269_965336374171108_1945290106753488025_n)
+![moje zdjęcie](277870269_965336374171108_1945290106753488025_n.jpg)

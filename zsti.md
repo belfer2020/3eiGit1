@@ -1,4 +1,7 @@
-# 6. dlaczego wybrałes szkołę ZSTI i kierunek technik informatyk
+# 1. dlaczego wybrałes szkołę ZSTI i kierunek technik informatyk
 # 2. co Ci się podoba w ZSTI
-# 4. co zmieniłbyś w ZSTI
-# 9000. dodaj Twoje zdjęcie
+# 3. co zmieniłbyś w ZSTI
+# 4. dodaj Twoje zdjęcie
+## 1. Wybrałem szkołę ZSTI i kierunek informatyka z myślą o rozwijaniu swoich zainteresowań związanych ze zawodem IT
+## 2. ZSTI podoba mi się sposób nauczania przez nauczycieli
+## 3. Nic

@@ -18,3 +18,5 @@
 > link do składni plików markdown: <https://www.markdownguide.org/basic-syntax/>
 
 >link do emotikonek <https://gist.github.com/rxaviers/7360908>
+
+a

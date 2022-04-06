@@ -6,4 +6,4 @@ Szkoła jest dobrze wyposażona oraz ma wspaniałych nauczycieli, którzy posiad
 # Co zmieniłbyś w ZSTI?
 Nie mam żadnych pomysłów na zmiany
 # Dodaj Twoje zdjęcie
-![moje zdjęcie](/logo/logoZSTI_l.jpg)
+![moje zdjęcie](ja.png)

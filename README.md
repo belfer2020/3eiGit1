@@ -1,7 +1,7 @@
 # Zadanie
 > podczas edycji pliku .md otwórz go w zakładce **Preview**, będziesz mógł zobaczyć jak md formatuje tekst.  :relaxed:
 
- ![logo ZSTI](/logo/logoZSTI_l.jpg)
+ ![logo ZSTI](/logo/forest-mountains-3v-1920x1080.jpg)
  
 > ### Termin 06.04.2022 r. godz 22:00!
 

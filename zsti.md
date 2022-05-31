@@ -5,4 +5,4 @@
 ## 1. Wybrałem szkołę ZSTI i kierunek informatyka z myślą o rozwijaniu swoich zainteresowań związanych ze zawodem IT
 ## 2. ZSTI podoba mi się sposób nauczania przez nauczycieli
 ## 3. Nic
-## 4. ![twoje zdiecie](/assets/images/Twoje_Zdjecie.jpg "Twoje Zdjęcie")
+## 4. ![moje zdiecie](https://preview.redd.it/545a2umsa3j71.png?auto=webp&s=01781e9a6971337aab7e50f0c7ee83e28fae71b0)

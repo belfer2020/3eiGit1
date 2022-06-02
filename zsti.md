@@ -7,3 +7,8 @@
 - [x] Rozmieszczenie sal.
 3. **Co zmieniłbyś w ZSTI?**
 - [x] Nie wiem, nie znam się.
+
+***
+![ZSTI](zstia.jpg)
+
+**To nie ja.**

@@ -9,4 +9,3 @@
 > - [x] dodanie windy szkolnej dla mnie osobiscie.
 
 #### 4. ####
-> - [x] 

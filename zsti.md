@@ -15,4 +15,4 @@
 >> - [x] Nowe komputery u pana Capińskiego
  
 
-![zdjecie](/Basiak.png)
+![zdjecie](/Basiak.jpg)
